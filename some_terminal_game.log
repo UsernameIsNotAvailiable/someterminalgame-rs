@@ -1,0 +1,8 @@
+[someterminalgame_rs::main] [INF] ----- LOG START : 2025-11-06T20:29:03.787118600-07:00 -----
+[someterminalgame_rs::main] [INF] Starting someterminalgame-rs 0.1.0
+[someterminalgame_rs::main] [INF] rustc version is 1.91.0
+[someterminalgame_rs::init_panic_hook] [INF] setup panic hook...
+[someterminalgame_rs::init_panic_hook] [INF] done
+[someterminalgame_rs::main] [INF] ----- LOG START : 2025-11-08T10:01:39.301557400-07:00 -----
+[someterminalgame_rs::main] [INF] Starting someterminalgame-rs 0.1.0
+[someterminalgame_rs::main] [INF] rustc version is 1.91.0
