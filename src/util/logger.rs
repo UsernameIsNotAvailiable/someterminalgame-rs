@@ -32,7 +32,7 @@ pub(crate) use function_name;
 
 #[track_caller]
 pub fn log_internal(func: &str, level: &str, msg: &str) {
-    let line1 = format!("[{func}] [{level}] ", func = func, level = level,);
+    let line1 = format!("[{level}] [{func}] ", level = level, func = func);
 
     let mut line2 = line1.clone();
     line2.push_str(msg);
